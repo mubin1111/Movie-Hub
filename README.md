@@ -21,7 +21,7 @@ This app uses [omdb API](https://www.omdbapi.com/) for fetching the movie data a
 open a terminal window
 
 ```
-git clone https://github.com/Amxn27/MovieHunt.git
+git clone 
 ```
 
 ```
