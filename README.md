@@ -1,8 +1,8 @@
-# movie-search-app Name Movie Hunter
+# movie-search-app Name Movie Hub
 
 a simple, responsive and functional movie searching app made using ReactJS.
 
-hosted link: movie-hunt-am.netlify.app
+hosted link:
 
 
 I have made this movie search app to practice my React skills. Mainly I make web pages by only keeping in mind of large screen users(PC, TV, laptops) and forgetting about small screen users(Mobile, Tablets).
@@ -25,7 +25,7 @@ git clone https://github.com/Amxn27/MovieHunt.git
 ```
 
 ```
-cd your folder name
+cd Movie-Hub
 ```
 
 download dependencies
