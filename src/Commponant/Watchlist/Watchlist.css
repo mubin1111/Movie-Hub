@@ -1,0 +1,70 @@
+/* src/Watchlist.css */
+.watchlist-container {
+    width: 90%;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .watchlist-container .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .watchlist-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .movie-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+  }
+  
+  .movie-card {
+    width: 261px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    overflow: hidden;
+    text-align: center;
+  }
+  
+  .movie-poster {
+    width: 100%;
+  }
+  
+  .movie-details {
+    padding: 10px;
+  }
+  
+  .movie-title {
+    font-size: 14px;
+    margin: 0;
+  }
+  
+  .movie-year {
+    font-size: 12px;
+    color: #777;
+  }
+  
+  .remove-button,
+  .logout-button,
+  .watchlist-button {
+    padding: 10px 20px;
+    background-color: #d9534f;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .remove-button:hover,
+  .logout-button:hover,
+  .watchlist-button:hover {
+    background-color: #c9302c;
+  }
+  
